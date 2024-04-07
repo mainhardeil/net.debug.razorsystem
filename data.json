@@ -1,6 +1,10 @@
 [
     {
       "id": "someTestID",
+      "isCompleted": true
+    },
+	{
+      "id": "someTestID2",
       "isCompleted": false
     }
 ]
