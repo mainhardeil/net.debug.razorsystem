@@ -1,7 +1,7 @@
 [
     {
       "id": "someTestID",
-      "isCompleted": false
+      "isCompleted": true
     },
 	{
       "id": "someTestID2",
