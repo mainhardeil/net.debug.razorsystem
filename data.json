@@ -1,15 +1,15 @@
 [
   {
     "id": "someTestID",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Dem_Q3HP5",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Masl_K9TS6",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Sav_Y5HA3",
@@ -17,94 +17,98 @@
   },
   {
     "id": "MD_XXX_T89WX2",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Tsl_U65SV3",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Root_B7KS2",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Glow_S9MP2",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Bgpipe_K64V3",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_park_G61S4",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Bbma_W35F3",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Gna_V57H3",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Tdck_W32Y1",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Bato_J4AF9",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Drum_N64O3",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Val_K7GD34",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Oak_S5B53A",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Wasp_U35AVG",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Silk_N87LX1",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Shky_B63M3",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Crea_K63C12",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Psh_M15F16",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Blts_JV3LN",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Ptr_AC21K7",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Glss_BL8VC",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Team_AB35AS",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Krch_A6DN3",
+    "isCompleted": true
+  },
+  {
+    "id": "MD_Core_LS7D2",
     "isCompleted": false
   }
 ]
