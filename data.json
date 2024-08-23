@@ -107,8 +107,13 @@
     "id": "MD_Krch_A6DN3",
     "isCompleted": true
   },
+
   {
     "id": "MD_Core_LS7D2",
+    "isCompleted": false
+  },
+  {
+    "id": "MD_Wht_S64K9",
     "isCompleted": false
   },
   {
