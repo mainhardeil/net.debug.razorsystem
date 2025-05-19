@@ -126,7 +126,7 @@
   },
   {
     "id": "MD_Pea_T3K74",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Dnl_Y97B35",
@@ -182,6 +182,10 @@
   },
   {
     "id": "MD_Rei_53G47",
+    "isCompleted": false
+  },
+  {
+    "id": "MD_Sh17T56",
     "isCompleted": false
   },
   {
