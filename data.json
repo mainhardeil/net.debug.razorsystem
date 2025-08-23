@@ -154,7 +154,7 @@
   },
   {
     "id": "MD_Ber_N4A85",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Btk_T3BN9",
@@ -162,7 +162,7 @@
   },
   {
     "id": "MD_War_K6G23",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Shp_E12R9",
@@ -170,19 +170,19 @@
   },
   {
     "id": "MD_Stm_N42C5",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Med_13B0R",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Ush_E51R3",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Rei_53G47",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Sh17T56",
@@ -198,7 +198,7 @@
   },
   {
     "id": "MD_Dmc_H79N7",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Axe_M9T617",
@@ -218,7 +218,7 @@
   },
   {
     "id": "MD_Sti_C5K15",
-    "isCompleted": false
+    "isCompleted": true
   },
   {
     "id": "MD_Y5UBPL5",
@@ -229,7 +229,11 @@
     "isCompleted": false
   },
   {
-    "id": "MD_Ktv_H3EB6",
+    "id": "MD_Kpl_N0V317",
     "isCompleted": false
+  },
+  {
+    "id": "MD_Ktv_H3EB6",
+    "isCompleted": true
   }
 ]
